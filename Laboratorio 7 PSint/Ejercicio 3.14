@@ -1,0 +1,13 @@
+Algoritmo Valorpresente
+	Definir C, int, VP como real
+	
+	Escribir "Ingrese el valor del capital: "
+	leer C
+	
+	int<-7/100
+	
+	VP<-(c/(1+int))
+	
+	Escribir "El valor peresente del capital invertido a final del año de la inversion es: " VP
+	
+FinAlgoritmo

@@ -1,0 +1,19 @@
+//Resistencia total de un circuito en paralelo
+Algoritmo ResiatenciaTotal
+	//Declaracion de Variables 
+	Escribir R1, R2, RT Real
+	//Ingreso de datos
+	Escribir "Ingrese el valor del primer resistor: "
+	leer R1
+	Escribir "Ingrese el valor del segundo resistor: "
+	leer R2
+	//Proceso
+	RT<- 1/((R1/R2)+(1/R2))
+	//Salida
+	
+	
+	
+	
+	
+	
+FinAlgoritmo

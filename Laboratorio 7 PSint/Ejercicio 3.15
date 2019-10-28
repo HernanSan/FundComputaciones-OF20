@@ -1,0 +1,15 @@
+Algoritmo CiframientoDeCaeser
+	
+	Definir C, d, n Como Entero
+	
+	Escribir "Ingrese el numero de digitos: "
+	leer d
+	Escribir "Ingrese el numero de posiciones: "
+	leer n
+	
+	C <-(d+n) mod 10
+	
+	Escribir "El digito Cifraso es: " C
+	
+	
+FinAlgoritmo

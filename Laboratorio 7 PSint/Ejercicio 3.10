@@ -1,0 +1,11 @@
+Algoritmo ConexionesEntreServidores
+	Definir NC, NS, NTC Como Real
+	Escribir "Ingrese la cantidad de servidores: "
+	Leer NS
+	//Proceso
+	NTC <-NS*(NS-1)/2
+	//Salida
+	Escribir "El numero Total de conexiones entre los servidores que soportan la red es: " NTC
+	
+	
+FinAlgoritmo

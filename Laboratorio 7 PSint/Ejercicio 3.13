@@ -1,0 +1,18 @@
+Algoritmo  A_TrapecioCircular
+	Definir Rma, Rme, g, A como real
+		
+		Escribir "Ingresar el valor del Radio mayor: "
+		leer Rma
+		Escribir "Ingresar el valor del Radio menor: "
+		leer Rme
+		Escribir "Ingresar el valor de los grados del trapecio: "
+		leer g
+		
+		A <-(Pi*(Rma*Rma+Rme*Rme)*g)/360
+		
+		Escribir "El area del trapecio circular es: " A
+		
+	
+	
+	
+FinAlgoritmo

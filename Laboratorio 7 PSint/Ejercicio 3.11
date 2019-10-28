@@ -1,0 +1,11 @@
+Algoritmo MetrosCubicosContaminados
+	Escribir hab, Mcc, entero
+	//Ingreso de Datos
+	Escribir "Ingrese el numero de Hbitantes de la ciudad: "
+	Leer hab
+	//Proceso
+	Mcc <-4*175*hab
+	//Salida
+	Escribir "La comtamonacion de los habitantes de H2O es: " Mcc "metros cubicos"	
+	
+FinAlgoritmo
